@@ -1,0 +1,25 @@
+To play with the bots, you need:
+-NodeJS (https://nodejs.org/en/)
+-Tampermonkey (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
+In config.js, you can choose the max of bots, the server where bots are running (Do not change if bots are running
+on your computer) and you can choose the Package Key.
+In userscript.js you have the userscript that you have to copy and then go to Tampermonkey and add a new userscript
+and paste the userscript. (TURN OFF ALL OTHER USERSCRIPT/EXTENSION OR BOTS WON'T WORKS)
+
+Now, to start the bots:
+1) Run GetProxy.bat OR put your own proxies in proxy.txt
+2) Run start.bat
+3) Go to Dual-agar.me and enter your Package Key.
+4) Click on the button "Start Bots" to start the bots (Use JF tag to see bots on minimap)
+
+Problem: If you don't see the GUI (the box with bots information and the "Start Bots" button), Close the tab of 
+Dual and open it again until you see the GUI.
+
+
+Hope you enjoy !
+
+
+JF Clan: JFClan.ga
+Janix-BOT: Janix-BOT.tk
+YouTube: JanixPad
